@@ -72,3 +72,6 @@ Once compiled, test your build with an E++ source file:
 
 Bash
 ./eplusplus path/to/script.epp
+
+this code was under the license (MIT)
+thanks for visiting this repository 😊
